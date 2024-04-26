@@ -1,0 +1,6 @@
+AWT-EventQueue-0Nr watku: 0, x: 1, y: 66, r: 65
+AWT-EventQueue-0Nr watku: 0, x: 108, y: 108, r: 17
+AWT-EventQueue-0Nr watku: 0, x: 504, y: 78, r: 82
+AWT-EventQueue-0Nr watku: 1, x: 503, y: 196, r: 15
+AWT-EventQueue-0Nr watku: 1, x: 520, y: 86, r: 86
+AWT-EventQueue-0Nr watku: 1, x: 65, y: 108, r: 4
